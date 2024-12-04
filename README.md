@@ -48,15 +48,12 @@ RegisterNumber: 24010473*/
 
 
 **RTL realization**
-![exp2](https://github.com/user-attachments/assets/0492a569-77ca-442d-a201-228a46e18258)
+![Screenshot 2024-12-04 140719](https://github.com/user-attachments/assets/441506d2-450b-4648-a2a6-ac419774660d)
+
 
 **Output:**
+![Screenshot 2024-12-04 140543](https://github.com/user-attachments/assets/69558771-6e31-4b7f-bbbf-9342a5df2a4b)
 
-**RTL**
-![exp2](https://github.com/user-attachments/assets/33df911b-a1ae-4672-9023-5f25e3d22288)
-
-**Timing Diagram**
-![Waveform result screenshot 2](https://github.com/user-attachments/assets/6f92effc-be43-40bc-b79f-45eec3c25593)
 
 **Result:**
 
